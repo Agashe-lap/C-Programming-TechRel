@@ -2,6 +2,6 @@
 int main()
 {
     printf("Hello World !!");
-    printf("Hrishikesh Agashe");
+    printf("We are Learning GitHub");
     return 0;
 }
